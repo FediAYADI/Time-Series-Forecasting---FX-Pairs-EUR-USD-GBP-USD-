@@ -1,0 +1,16 @@
+{
+  "n_obs": 3050,
+  "train_n": 2745,
+  "test_n": 305,
+  "forecast_h": 7,
+  "auto_arima_order": [
+    0,
+    0,
+    0
+  ],
+  "var_lag_aic": 1,
+  "johansen_rank_used": 1,
+  "ts_cv_rmse_lstm": 0.004563557660087111,
+  "ts_cv_rmse_gru": 0.004569137921638308,
+  "best_model_by_rmse": "LSTM"
+}

@@ -1,0 +1,3 @@
+cause,effect,lag,pvalue
+EURUSD_log_return,GBPUSD_log_return,1,
+GBPUSD_log_return,EURUSD_log_return,1,
